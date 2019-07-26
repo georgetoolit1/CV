@@ -24,4 +24,4 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 
 ## Contact
 
-g.toolit@gmail.com | [GitHub](https://github.com/georgetoolit1) | [LinkedIn](www.linkedin.com/in/georgetoolit)
+g.toolit@gmail.com | [GitHub](https://github.com/georgetoolit1) | [LinkedIn](https://www.linkedin.com/in/georgetoolit/) 
