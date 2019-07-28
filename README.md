@@ -6,17 +6,21 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 
 #### Skills
 
-|Languages| Testing | Tools | Libraries and API |
-|:-----:|:-----:|:------:|:------:|
-| Java | Test Driven Development  |  Git |Python Django |
-|Python |Appium | Docker | React|
-|JavaScript( ES6 ES7)| Detox | npm |React Native  | 
-|Bash Scripting | Postman | yarn |
-|HTML5|API Automation Testing |Linux| |
-|CSS| | Jenkins | 
+|        Languages       |        Testing           |      Tools        | Libraries and API |
+|        :-----:         |        :-----:           |      :------:     |    :------:       |
+| Java                   | Test Driven Development  |        Git        |   Python Django   |
+| Python                 | Appium                   |       Docker      |    React          |
+|JavaScript( ES6 ES7)    | Detox                    |       npm         |     React Native  | 
+|Bash Scripting          | Postman                  |       yarn        |                   |
+|HTML5                   | API Automation Testing   |      Linux        |                   |
+|CSS                     | Selenium Webdriver       |       Maven       |
+|                        |                          |      Gradle       |
 
 
 ## Experience
+
+### [My Portofolio](http://georgetoolit.com/)
+
 
 
 ## Education
