@@ -21,6 +21,14 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 
 ### [My Portofolio](http://georgetoolit.com/)
 
+This is my personal ongoing portfolio site built using python Django framework. 
+- **Technologies used include:**
+  * Python Django framework
+  * HTML5
+  * BOOTSTRAP
+  * PostgreSQL 
+  * Digital Ocean
+
 
 
 ## Education
