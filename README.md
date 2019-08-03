@@ -33,21 +33,21 @@ This is my personal ongoing portfolio site built using python Django framework.
 
 A simple maven project that automates web browser automation using selenium, cucumber BDD and TestNG
 - **Technologies used include:**
+  * Selenium
   *
   *
   *
-  *
-  *
-  *
+  * Cucumber
+  * TestNG
   
 ### [MobileTestAutomation](https://place.com)
 - **Technologies used include:**
+  * Appium
+  * Cucumber
   *
   *
   *
-  *
-  *
-  *
+  * JUnit
 
 ## Education
 
