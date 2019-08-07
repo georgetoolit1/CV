@@ -8,9 +8,9 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 
 |        Languages       |        Testing           |      Tools        | Libraries and API |
 |        :-----:         |        :-----:           |      :------:     |    :------:       |
-| Java                   | Test Driven Development  |        Git        |   Python Django   |
-| Python                 | Appium                   |       Docker      |    React          |
-|JavaScript( ES6 ES7)    | Detox                    |       npm         |     React Native  | 
+| Java                   | Test Driven Development  |        Git        |    Python Django   |
+| Python                 | Appium                   |       Docker      |    React          | 
+|JavaScript( ES6 ES7)    | Detox                    |       npm         |    React Native   | 
 |Bash Scripting          | Postman                  |       yarn        |                   |
 |HTML5                   | API Automation Testing   |      Linux        |                   |
 |CSS                     | Selenium Webdriver       |       Maven       |
@@ -33,20 +33,20 @@ This is my personal ongoing portfolio site built using python Django framework.
 
 A simple maven project that automates web browser automation using selenium, cucumber BDD and TestNG
 - **Technologies used include:**
-  * Selenium
-  *
-  *
-  *
-  * Cucumber
+  * Selenium WebDriver
   * TestNG
+  * Java 8
+  * Maven
+  * Cucumber Gherkin Scenarios
+ 
   
 ### [MobileTestAutomation](https://place.com)
 - **Technologies used include:**
   * Appium
-  * Cucumber
-  *
-  *
-  *
+  * Cucumber Gherkin Scenarios
+  * Maven
+  * Google guice
+  * Java 8
   * JUnit
 
 ## Education
