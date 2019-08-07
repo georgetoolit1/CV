@@ -14,7 +14,7 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 |Bash Scripting          | Postman                  |       yarn        |                   |
 |HTML5                   | API Automation Testing   |      Linux        |                   |
 |CSS                     | Selenium Webdriver       |       Maven       |
-|                        |                          |      Gradle       |
+|                        | Taiko (JavaScript)       |      Gradle       |
 
 
 ## Experience
