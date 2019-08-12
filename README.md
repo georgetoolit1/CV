@@ -11,7 +11,7 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 | Java                   | Test Driven Development  |        Git        |    Python Django   |
 | Python                 | Appium                   |       Docker      |    React          | 
 |JavaScript( ES6 ES7)    | Detox                    |       npm         |    React Native   | 
-|Bash Scripting          | Postman                  |       yarn        |                   |
+|Bash Scripting          | Postman                  |       yarn        |    REST-assured   |
 |HTML5                   | API Automation Testing   |      Linux        |                   |
 |CSS                     | Selenium Webdriver       |       Maven       |
 |                        | Taiko (JavaScript)       |      Gradle       |
