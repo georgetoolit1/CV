@@ -50,7 +50,8 @@ A simple maven project that automates web browser automation using selenium, cuc
   * JUnit
 
 ## Education
-
+- **University of Aberdeen**
+  * Beng Electrical and Electronics Engineering
 
 ## Contact
 
