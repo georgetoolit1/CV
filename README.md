@@ -6,20 +6,21 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 
 #### Skills
 
-|        Languages       |        Testing           |      Tools        | Libraries and API |
+|        Languages       |        Testing           |      Technologies | Libraries and API |
 |        :-----:         |        :-----:           |      :------:     |    :------:       |
 | Java                   | Test Driven Development  |        Git        |    Python Django   |
 | Python                 | Appium                   |       Docker      |    React          | 
-|JavaScript( ES6 ES7)    | Detox                    |       npm         |    React Native   | 
-|Bash Scripting          | Postman                  |       yarn        |    REST-assured   |
-|HTML5                   | API Automation Testing   |      Linux        |                   |
+|JavaScript( ES6 ES7)    | Detox                    |       Jenkins     |    React Native   | 
+|Bash Scripting          | Postman                  |       Ansible     |    REST-assured   |
+|HTML5                   | API Automation Testing   |       AWS.        |                   |
 |CSS                     | Selenium Webdriver       |       Maven       |
-|                        | Taiko (JavaScript)       |      Gradle       |
+|                        | Taiko (JavaScript)       |       Linux       |
+|                        |                          |       Vagrant     |                   |
 
 
 ## Experience
 
-### [My Portofolio](http://georgetoolit.com/)
+### My Portofolio
 
 This is my personal ongoing portfolio site built using python Django framework. 
 - **Technologies used include:**
@@ -29,7 +30,7 @@ This is my personal ongoing portfolio site built using python Django framework.
   * PostgreSQL 
   * Digital Ocean
 
-### [TestNGCucumber](https://github.com/georgetoolit1/TestNGCucumber)
+### TestNGCucumber
 
 A simple maven project that automates web browser automation using selenium, cucumber BDD and TestNG
 - **Technologies used include:**
@@ -40,7 +41,7 @@ A simple maven project that automates web browser automation using selenium, cuc
   * Cucumber Gherkin Scenarios
  
   
-### [MobileTestAutomation](https://place.com)
+### MobileTestAutomation
 - **Technologies used include:**
   * Appium
   * Cucumber Gherkin Scenarios
