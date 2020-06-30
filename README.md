@@ -16,6 +16,7 @@ I am a highly motivated, dynamic and forward-thinking Engineer with experience i
 |CSS                     | Selenium Webdriver       |       Maven       |
 |                        | Taiko (JavaScript)       |       Linux       |
 |                        |                          |       Vagrant     |                   |
+|                        |                          |       Terraform   |                   |
 
 
 ## Experience
