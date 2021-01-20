@@ -1,34 +1,31 @@
 ## George Toolit
-### Senior Software Developer in Test
+### DevOps Engineer
 
+Result-driven AWS Certified Cloud Engineer with 5+ years of experience in Software Development Lifecycle and automating mission critical Software releases.
+In-depth knowledge of automating and managing infrastructure.
+An enthusiastic team player and effective communicator which allows me to get the most from teams when managing projects.
 
-I am a highly motivated, dynamic and forward-thinking Engineer with experience in Software Testing. Always keeping abreast of new technologies and improving my knowledge and understanding.  An enthusiastic team player and effective communicator which allows me to get the most from teams when managing projects.  Highly proficient at using and understanding software used in the test automation industry and testing in Java, Selenium Web Browser Automation.
+Key competencies:
 
-#### Skills
+* AWS
+* DevOps
+* Agile
+* Terraform
+* Kubernetes
+* Cloud Architecture
 
-|        Languages       |        Testing           |      Technologies | Libraries and API |
-|        :-----:         |        :-----:           |      :------:     |    :------:       |
-| Java                   | Test Driven Development  |        Git        |    Python Django   |
-| Python                 | Appium                   |       Docker      |    React          | 
-|JavaScript( ES6 ES7)    | Detox                    |       Jenkins     |    React Native   | 
-|Bash Scripting          | Postman                  |       Ansible     |    REST-assured   |
-|HTML5                   | API Automation Testing   |       AWS.        |                   |
-|CSS                     | Selenium Webdriver       |       Maven       |
-|                        | Taiko (JavaScript)       |       Linux       |
-|                        |                          |       Vagrant     |                   |
-|                        |                          |       Terraform   |                   |
 
 
 ## Experience
 
 ### My Portofolio
 
-This is my personal ongoing portfolio site built using python Django framework. 
+This is my personal ongoing portfolio site built using python Django framework.
 - **Technologies used include:**
   * Python Django framework
   * HTML5
   * BOOTSTRAP
-  * PostgreSQL 
+  * PostgreSQL
   * Digital Ocean
 
 ### TestNGCucumber
@@ -40,8 +37,8 @@ A simple maven project that automates web browser automation using selenium, cuc
   * Java 8
   * Maven
   * Cucumber Gherkin Scenarios
- 
-  
+
+
 ### MobileTestAutomation
 - **Technologies used include:**
   * Appium
@@ -57,4 +54,4 @@ A simple maven project that automates web browser automation using selenium, cuc
 
 ## Contact
 
-g.toolit@gmail.com | [GitHub](https://github.com/georgetoolit1) | [LinkedIn](https://www.linkedin.com/in/georgetoolit/) 
+g.toolit@gmail.com | [GitHub](https://github.com/georgetoolit1) | [LinkedIn](https://www.linkedin.com/in/georgetoolit/)
